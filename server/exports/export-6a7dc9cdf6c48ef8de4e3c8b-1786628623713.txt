@@ -1,0 +1,91 @@
+Mahipalsinh Vadher
+vadhermahipalsinh641@gmail.com | 💻GitHub: https://github.com/mahipal1075 |
+🔗 LinkedIn: linkedin.com/in/mahipalsinh-vadher | 📍Marwadi university Rajkot Gujarat, India
+. E D U C A T I O N
+2023–2027
+Marwadi University
+B.Tech in Computer Engineering CGPA: 7.65
+P R O J E C T S
+Inventory Management System – MERN + AI
+Prediction (Hackathon Project)
+• Developed frontend dashboards using React.js for inventory
+monitoring.
+• Built backend APIs using Node.js and Express.js.
+• Integrated AI-based demand forecasting for stock prediction.
+• Implemented CRUD operations and real-time inventory tracking
+AI-Powered Handwritten Text Recognition System
+(Work in Progress)
+Python, FastAPI, React.js, Node.js, MongoDB, TrOCR
+• Developing a full-stack OCR application using MERN Stack,
+FastAPI, and the TrOCR machine learning model.
+• Building REST APIs for image upload, text extraction, and
+prediction management.
+• Integrating ML inference with a React frontend and MongoDB
+for storing OCR history and user data.
+•
+Currently improving model accuracy, API integration, and
+end-to-end deployment.
+GlowNest – MERN Stack E-commerce Website
+• Developed a responsive skincare e-commerce platform using
+React.js, Node.js, Express.js, and MongoDB.
+• Built RESTful APIs for product management, cart functionality,
+and user authentication.
+• Implemented JWT-based authentication and authorization.
+• Designed reusable React components and integrated frontend
+with backend services.
+• Managed product, user, cart, and order data using MongoDB.
+Myntra Clone React.js E-commerce Application
+• Developed a responsive e-commerce frontend inspired by
+Myntra using React.js.
+• Built reusable components for product listing , navigation,
+and cart functionality.
+• Implemented React Router for seamless page navigation.
+• Used state management and API integration for dynamic
+product rendering.
+• Designed a mobile-friendly UI using HTML, CSS, and Bootstrap.
+I N T E R N S H I P
+Cisco Networking Internship (Participated)
+• Learned routing, subnetting, and network fundamentals
+• Worked with Cisco Packet Tracer for network simulations
+S K I L L S
+Programming:
+Python , JavaScript , C++ , Java , C
+Backend:
+FastAPI , Flask , Node.js , Express.js , REST APIs ,
+JWT Authentication
+Databases:
+MYSQL , PostgreSQL , MongoDB
+Frontend:
+React.js , HTML , CSS , Bootstrap , Redux
+Tools:
+Git , GitHub , Postman , Vs Code , Antigravity
+Cloude & DevO
+AWS EC2 , S3, Azure Fundamentals, Linux
+Core CS:
+OOP, Data Structures & Algorithms, DBMS, Operating Systems,
+Computer Networks
+Soft Skills
+Problem Solving ,Team Collaboration
+Communication Skills ,Quick Learner
+Adaptability ,Time Management
+C E R T I F I C A T I O N S
+• Azure Fundamentals
+• AWS EC2 Basics
+• Cisco Networking Essentials
+• Machine Learning Foundations
+• Python for Data Science
+• Linux Essentials
+• Database and SQL
+• Automate Software Testing with Python
+Certificates:
+https://drive.google.com/drive/u/0/folders
+LeetCode :
+Solved 70+ Data Structures and Algorithms
+problems on LeetCode covering arrays, strings,
+linked
+lists,
+trees,
+recursion,
+and
+dynamic
+programming.

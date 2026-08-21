@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+transformers
+opencv-python
+symspellpy
+python-multipart
+pydantic
+numpy
+Pillow
+requests
+protobuf
+sentencepiece
+tiktoken
+pymupdf
+scipy
+rapidocr-onnxruntime
